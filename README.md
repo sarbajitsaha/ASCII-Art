@@ -24,7 +24,7 @@ Both files convert-ascii.php and main.php should be present in the same director
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ##Examples
-	You can check the sample images in images folder and their corresponding ascii art in output folder. Recommended text editor to open these files is Notepad++. Keep the font size at a minimum.
+ You can check the sample images in images folder and their corresponding ascii art in output folder. Recommended text editor to open these files is Notepad++. Keep the font size at a minimum.
 
 
 #Screenshots

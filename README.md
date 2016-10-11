@@ -30,11 +30,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 #Screenshots
 ![input1](images/1.jpg?raw=true "Input 1")
 
-![output1](output-screenshots/screenshot1.png?raw=true "Output 1")
+![output1](output-screenshots/screenshot2.png?raw=true "Output 1")
 
 ![input2](images/2.png?raw=true "Input 2")
 
-![output2](output-screenshots/screenshot2.png?raw=true "Output 2")
+![output2](output-screenshots/screenshot1.png?raw=true "Output 2")
 
 ![input3](images/3.jpg?raw=true "Input 3")
 
